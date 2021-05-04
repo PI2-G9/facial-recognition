@@ -6,7 +6,9 @@ Este projeto utiliza a biblioteca [face_recognition](https://github.com/ageitgey
 
 ## Exemplo de Funcionamento
 
-![exemplo1](./images/exemplo1.png)
+O gif abaixo demonstra o funcionamento do reconhecimento facial (atuando em um Raspberry Pi):
+
+![exemplo2](./images/exemplo.gif)
 
 ## Instalação (Raspberry Pi 4+)
 
